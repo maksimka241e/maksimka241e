@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maksimka241e.github.io/qiez/static/css/main.2a874582.css",
-    "main.js": "/maksimka241e.github.io/qiez/static/js/main.ef60f067.js",
-    "static/js/453.80eeeb15.chunk.js": "/maksimka241e.github.io/qiez/static/js/453.80eeeb15.chunk.js",
-    "index.html": "/maksimka241e.github.io/qiez/index.html",
-    "main.2a874582.css.map": "/maksimka241e.github.io/qiez/static/css/main.2a874582.css.map",
-    "main.ef60f067.js.map": "/maksimka241e.github.io/qiez/static/js/main.ef60f067.js.map",
-    "453.80eeeb15.chunk.js.map": "/maksimka241e.github.io/qiez/static/js/453.80eeeb15.chunk.js.map"
+    "main.css": "/qiez/static/css/main.2a874582.css",
+    "main.js": "/qiez/static/js/main.38041a69.js",
+    "static/js/453.80eeeb15.chunk.js": "/qiez/static/js/453.80eeeb15.chunk.js",
+    "index.html": "/qiez/index.html",
+    "main.2a874582.css.map": "/qiez/static/css/main.2a874582.css.map",
+    "main.38041a69.js.map": "/qiez/static/js/main.38041a69.js.map",
+    "453.80eeeb15.chunk.js.map": "/qiez/static/js/453.80eeeb15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a874582.css",
-    "static/js/main.ef60f067.js"
+    "static/js/main.38041a69.js"
   ]
 }
